@@ -9,7 +9,7 @@ Given this is my first blog post, I am blogging about something that has had mor
 
 To me, data science is applied statistics in industry. Some people stress the tools make data scientists different than statisticians, but I disagree. When statisticians stopped calculating statistics by hand, they didn’t stop being statisticians. I don’t see why using Python instead of SAS to implement the same methodology makes one person a data scientist and another a statistician. “Data scientist” jobs typically require more programming ability than traditional statistician jobs, but that is because the development environment is different. 
 
-Some people stress the difference is data scientists are more focused on machine learning, while statisticians only care about inference. I think that is untrue as well. Deep and reinforcement learning typically aren’t taught in statistics departments, but virtually all statistics departments teach classes focused on predictive methods.
+Some people stress the difference is data scientists are more focused on machine learning, while statisticians only care about inference. I think that is untrue as well. Deep and reinforcement learning typically aren’t taught in statistics departments, but virtually all statistics departments teach classes focused on predictive methods and conduct research into new statistical learning algorithms.
 
 But this is all just my opinion.
 
