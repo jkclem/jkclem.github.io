@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm pursuing a Master's in Statistics at NCSU. My passion is statistical/machine learning!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jkclements2016@gmail.com](jkclements2016@gmail.com)
