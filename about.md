@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]("images\John-Clements-Picture.jpg")
+![](".\images\John-Clements-Picture.jpg")
 
 Hi, I'm John!
 
