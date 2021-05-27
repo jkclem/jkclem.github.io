@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]("/images/John-Clements-Picture.jpg")
+![]("ttps://raw.githubusercontent.com/jcleme/j/jkclem.github.io/images/jekyll-logo.png/images/John-Clements-Picture.jpg")
 
 Hi, I'm John!
 
