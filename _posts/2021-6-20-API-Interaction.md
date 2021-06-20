@@ -10,7 +10,7 @@ Working on this project, I went through the normal development process. I coded 
 
 I've interacted with APIs before, but one problem that I hadn't encountered was different Ids for an entity depending on the endpoint. The NHL has a [records](https://gitlab.com/dword4/nhlapi/-/blob/master/records-api.md) and a [stats](https://gitlab.com/dword4/nhlapi/-/blob/master/stats-api.md) API. Depending on which API is being called, the correct Id to use changes. 
 
-I wasn't sure to design the functions to expect a **franchise Id** or a **team Id** because I could not decide what a user would want as a default. My workaround was letting a user supply a full team name (e.g. `"New York Rangers"`) to a function and let the function map it to the appropriate Id number. If a user wanted to pass an Id, I expect them to provide the proper Id given the API whose endpoint the function is querying. I'm still not sure this was the right choice. 
+I wasn't sure to design the functions to expect a **franchise Id** or a **team Id** because I could not decide what a user would want as a default. My workaround was letting a user supply a full team name (e.g. `"New York Rangers"`) to a function and let the function map it to the appropriate Id number. If a user wants to pass an Id, I expect them to provide the proper Id given the API whose endpoint the function is querying. I'm still not sure this was the right choice. 
 
 Were I to build a production-ready API interaction package, I would want to poll likely users to know their preference. I don't know the feasibility of that, but I feel like it is a huge design decision to make without outside input.
 
