@@ -1,4 +1,4 @@
-I just wrapped a [project](https://jkclem.github.io/nhl-api-vignette/#requirements) ([github repo](https://github.com/jkclem/nhl-api-vignette)) that gives an example of how to write functions to intearct with an API. I used the NHL's API to write the vignette. 
+I just wrapped a [project](https://jkclem.github.io/nhl-api-vignette/) ([github repo](https://github.com/jkclem/nhl-api-vignette)) that gives an example of how to write functions to intearct with an API. I used the NHL's API to write the vignette. 
 
 ## The Project
 
