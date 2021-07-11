@@ -9,7 +9,8 @@ With the project completed, I would like to reflect on the experience.
   - Take the time to learn how to solve merge conflicts.
 - What was the most difficult part of the project?
   - Have I mentioned merge conflicts, yet? 
-    ![](/images/xkcd-git.png)
   - Additionally, getting the plots for the automated .md files to render was a headache.
 - What are my big take-aways from this project?
   - I need to learn how projects that have multiple people working on the same branch avoid and resolve merge conflicts efficiently. I'm used to working on my own branch and rolling my changes into the main branch once I hit a development milestone. I need to be able to work collaboratively both ways.
+
+![](/images/xkcd-git.png)
