@@ -14,3 +14,4 @@ With the project completed, I would like to reflect on the experience.
   - I need to learn how projects that have multiple people working on the same branch avoid and resolve merge conflicts efficiently. I'm used to working on my own branch and rolling my changes into the main branch once I hit a development milestone. I need to be able to work collaboratively both ways.
 
 ![](/images/xkcd-git.png)
+[source](https://xkcd.com/1597/)
