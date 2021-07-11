@@ -8,7 +8,7 @@ With the project completed, I would like to reflect on the experience.
   - Develop a schedule with my partner to reduce the likelihood of merge conflicts.
   - Take the time to learn how to solve merge conflicts.
 - What was the most difficult part of the project?
-  - Have I mentioned merge conflicts, yet?
+  - Have I mentioned merge conflicts, yet? 
 ![](/images/xkcd-git.png)
   - Additionally, getting the plots for the automated .md files to render was a headache.
 - What are my big take-aways from this project?
